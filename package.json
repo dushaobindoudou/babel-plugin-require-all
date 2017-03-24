@@ -1,0 +1,14 @@
+{
+    "name": "babel-plugin-require-all",
+    "version": "0.0.1",
+    "main": "lib/index.js ",
+    "description": "convert the referenced directory to all files under the reference directory",
+    "repository": "https://github.com/dushaobindoudou/babel-plugin-require-all",
+    "license": "MIT",
+    "keywords": [
+          "babel-plugin",
+          "requireAll",
+          "require dirs all files"
+     ]
+
+}
